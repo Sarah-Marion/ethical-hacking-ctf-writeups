@@ -24,7 +24,8 @@ A comprehensive penetration test against a target machine, dissecting its defens
 *   **Vulnerability Research:** Identifying and analyzing public exploits (e.g., qdPM 9.1 RCE) and leveraging resources like Exploit-DB. This situates a specific flaw within the broader context of known security failures.
 *   **Exploitation:** Synthesizing gathered intelligence to gain access, demonstrating the practical consequence of theoretical vulnerabilities.
 
-[View the Full Analytical Write-Up (PDF)](./CTF-DoubleTrouble/CTF-doubletrouble-By-Sarah-Marion.pdf) | [View Certification](./CTF-DoubleTrouble/Certificate.pdf)
+
+[View the Full Analytical Write-Up (PDF)](CTF-DoubleTrouble/CTF-doubletrouble-By%20Sarah%20Marion.pdf) | [View Certification](CTF-DoubleTrouble/Sarah%20Marion%20Ethical%20Hacker%20Certificate.pdf)
 
 
 
