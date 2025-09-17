@@ -25,3 +25,15 @@ A comprehensive penetration test against a target machine, dissecting its defens
 *   **Exploitation:** Synthesizing gathered intelligence to gain access, demonstrating the practical consequence of theoretical vulnerabilities.
 
 [View the Full Analytical Write-Up (PDF)](./CTF-DoubleTrouble/CTF-doubletrouble-By-Sarah-Marion.pdf) | [View Certification](./CTF-DoubleTrouble/Certificate.pdf)
+
+
+
+## About the Author
+
+I am a Security-Focused Full-Stack Developer and CTO with 9+ years of experience in architecting and securing high-performance web applications. My work is driven by a philosophy that technology must be built with intentionality—where security is not an additive feature but a foundational principle. I explore the intersection of code, security, and societal impact on my technical blog.
+
+
+**Connect & Explore:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?logo=linkedin)](https://www.linkedin.com/in/sarah-ndeti/)  
+[![Blog](https://img.shields.io/badge/Technical-Blog-critical)](https://www.blog.sarahmarion.com/)  
+[![Portfolio](https://img.shields.io/badge/Personal-Portfolio-success)](https://www.sarahmarion.com/)
